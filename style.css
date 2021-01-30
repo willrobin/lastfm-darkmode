@@ -1,0 +1,318 @@
+div.adaptive-skin-wrapper {
+  background-color: #000
+  
+}
+
+div.container.page-content {
+  background-color: #000
+  
+}
+
+a.text-colour-link {
+  color: #ddd;
+}
+
+tr td a {
+  color: #ddd;
+}
+
+header.header.header--with-avatar.header--overview.header--user {
+  background-color: #000;
+}
+
+div section h2 {
+  color: #ddd;
+}
+
+div section p {
+  color: #ddd;
+}
+
+button.btn.stationlink.js-playlink-station {
+  color: #ddd;
+}
+
+td.chartlist-index {
+  color: #ddd;
+}
+
+span.chartlist-count-bar-value {
+  color: #ddd;
+}
+
+span.chartlist-count-bar-slug {
+  background-color: #170404;
+}
+
+a.listening-report-promo.listening-report-promo--week {
+  background-color: #060606;
+}
+
+span.listening-report-promo-date {
+  color: #ddd;
+}
+
+a.listening-report-promo.listening-report-promo--month {
+  background-color: #060606;
+}
+
+a.listening-report-promo.listening-report-promo--year {
+  background-color: #060606;
+}
+
+tr.chartlist-row.chartlist-row--now-scrobbling.chartlist-row--with-artist.chartlist-row--with-buylinks.js-focus-controls-container {
+  background-color: #222222;
+}
+
+div.nag-bar.nag-bar--language-mismatch-prompt {
+  background-color: #161004;
+}
+
+p.nag-bar-message {
+  color: #ddd;
+}
+
+a.link-block-target {
+  color: #ddd;
+}
+
+dd.catalogue-metadata-description {
+  color: #ddd;
+}
+
+dt.catalogue-metadata-heading {
+  color: #ddd;
+}
+
+p.cta-copy {
+  color: #ddd;
+}
+
+h3.text-18 {
+  color: #ddd;
+}
+
+li div a {
+  color: #ddd;
+}
+
+a.play-this-track-playlink.play-this-track-playlink--youtube.js-playlink {
+  color: #ddd;
+}
+
+a.hidden-xs.play-this-track-playlink.play-this-track-playlink--spotify.js-playlink {
+  color: #ddd;
+}
+
+a.hidden-xs.play-this-track-playlink.play-this-track-playlink--itunes {
+  color: #ddd;
+}
+
+a.resource-external-link.resource-external-link--homepage {
+  color: #ddd;
+}
+
+a.resource-external-link.resource-external-link--twitter {
+  color: #ddd;
+}
+
+a.resource-external-link.resource-external-link--facebook {
+  color: #ddd;
+}
+
+a.resource-external-link.resource-external-link--soundcloud {
+  color: #ddd;
+}
+
+a.resource-external-link.resource-external-link--instagram {
+  color: #ddd;
+}
+
+div h3 a {
+  color: #ddd;
+}
+
+div.content-top-inner-wrap {
+  background-color: #000;
+}
+
+h2.user-sidebar-header {
+  color: #ddd;
+}
+
+h1.content-top-header {
+  color: #ddd;
+}
+
+a.secondary-nav-item-link {
+  color: #ddd;
+}
+
+h2.library-header-title {
+  color: #ddd;
+}
+
+h2.user-dashboard-section-header.None {
+  color: #ddd;
+}
+
+div.user-dashboard-module-inner-wrap {
+  background-color: #000;
+}
+
+div div h3 {
+  color: #ddd;
+}
+
+div.user-dashboard-scrobble-stats-meta-description {
+  color: #ddd;
+}
+
+div.user-dashboard-scrobble-stats-previous {
+  color: #ddd;
+}
+
+li.user-dashboard-legend-item.user-dashboard-legend-item--current {
+  color: #ddd;
+}
+
+li.user-dashboard-legend-item.user-dashboard-legend-item--comparison {
+  color: #ddd;
+}
+
+li.user-dashboard-legend-item.user-dashboard-legend-item--average {
+  color: #ddd;
+}
+
+p.listening-report-brick-item-name {
+  color: #ddd;
+}
+
+div.header-metadata-display {
+  color: #ddd;
+}
+
+p.listening-report-highlight-comparison {
+  color: #ddd;
+}
+
+p.listening-report-brick-item-artist {
+  color: #ddd;
+}
+
+p.listening-report-brick-item-scrobbles {
+  color: #ddd;
+}
+
+div.listening-report-brick-col.listening-report-brick-rank {
+  color: #ddd;
+}
+
+div.listening-report-brick.listening-report-brick--combo.listening-report-brick--with-tag-label {
+  border-color: #060606;
+}
+
+div.listening-report-brick {
+  border-color: #141414;
+}
+
+li.user-dashboard-legend-item {
+  color: #ddd;
+}
+
+a.listening-report-library-link {
+  background-color: #111;
+  color: #ddd;
+}
+
+rect.highcharts-background {
+  background-color: #111;
+}
+
+section.user-dashboard-module.user-dashboard-listening-week.user-dashboard-module--no-border {
+  background-color: #000;
+}
+
+h4.header-metadata-title {
+  color: #666;
+}
+
+td span a {
+  color: #ddd;
+}
+
+button.disclose-trigger.dropdown-menu-clickable-button.section-control {
+  color: #666;
+}
+
+nav.navlist.secondary-nav.navlist--more {
+  border-color: #141414 
+}
+
+.listening-report-brick {
+  border-color: #141414
+}
+
+.nag-bar-message  a {
+  color: #ffac66; 
+}
+
+.more-link a {
+  color: #ba0000; 
+}
+
+p.metadata-display {
+  color: #ddd
+  
+}
+
+h2.metadata-title {
+  color: #666;
+}
+
+h2.date-heading {
+  color: #666;
+}
+
+.chartlist-break::after, .chartlist-row::after {
+	border-bottom: 1px solid #141414;
+}
+
+.highcharts-background {
+  fill: #000;
+}
+
+.chartlist-row:hover {
+ background-color:#060606
+}
+
+span.listening-report-promo-title {
+  color: #ddd;
+}
+
+.listening-report-brick .listening-report-brick-inner + .listening-report-brick-inner {
+	border-color: #141414;
+}
+
+section.user-dashboard-module.user-dashboard-tube-tags.user-dashboard-module--no-border {
+  background-color: #000;
+}
+
+.user-dashboard-tube-tags-position {
+	background-color: #141414;
+}
+
+span.label.label-default {
+  background-color: #1c1c1c;
+  color: #ddd
+  
+}
+
+span.label {
+  color: #ddd;
+  background-color: #1c1c1c;
+}
+
+.catalogue-chart-inner a {
+  color: #ba0000; 
+}
