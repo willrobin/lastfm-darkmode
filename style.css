@@ -65,7 +65,7 @@ tr.chartlist-row.chartlist-row--now-scrobbling.chartlist-row--with-artist.chartl
 }
 
 div.nag-bar.nag-bar--language-mismatch-prompt {
-  background-color: #161004;
+  background-color: #111111;
 }
 
 p.nag-bar-message {
@@ -315,4 +315,86 @@ span.label {
 
 .catalogue-chart-inner a {
   color: #ba0000; 
+}
+
+div div h1 {
+  color: #ddd;
+}
+
+label.control-label {
+  color: #ddd;
+}
+
+form p a {
+  color: #b90000;
+}
+
+.form-group a {
+  color: #b90000;
+}
+
+div.context {
+  background-color: #060606
+  
+}
+
+#ot-sdk-btn, #onetrust-banner-sdk #onetrust-pc-btn-handler, #onetrust-banner-sdk #onetrust-accept-btn-handler, #onetrust-banner-sdk #accept-recommended-btn-handler, #cookie-preferences .save-preference-btn-handler {
+	border: #444 1px solid;
+	background-color: #000; 
+	color: #fff;
+}
+
+.recs-feed .context {
+	-webkit-box-shadow: inset 1px 0 #141414,inset -1px -1px #141414;
+	box-shadow: inset 1px 0 #141414,inset -1px -1px #141414;
+}
+
+.dropdown-menu-clickable {
+	background: #000;
+	-webkit-box-shadow: 0 1px 10px rgba(255,255,255,.3),0 0 0 1px rgba(255,255,255,.2);
+	box-shadow: 0 1px 10px rgba(255,255,255,.3),0 0 0 1px rgba(255,255,255,.2);
+}
+
+.section-with-separator::after {
+	background-color: #060606;
+}
+
+a.play-this-track-playlink.play-this-track-playlink--disabled.play-this-track-playlink--itunes {
+  color: #ddd;
+}
+
+a.resource-external-link.resource-external-link--apple-music {
+  color: #ddd;
+}
+
+div.wiki-block-inner-2.wiki-truncate-5-lines {
+  color: #ddd;
+}
+
+button.js-playlink-station.desktop-playlink.inline-section-control.stationlink {
+  color: #ddd;
+}
+
+p.alert.alert-danger {
+  color: #d92323;
+}
+
+textarea.js-shout-input.inplace-field {
+  background-color: #000;
+}
+
+.shout-form {
+	border-color: #141414;
+}
+
+.shout {
+	border-color: #141414;
+}
+
+.highcharts-plot-band {
+  fill: #060606;
+}
+
+.play-this-track-playlink::after {
+	border-color: #141414;
 }
