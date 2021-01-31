@@ -6,7 +6,7 @@ A custom stylesheet for last.fm for Stylebot.
 2. Open Stylebot Options
 3. Go to „Styles“
 4. Add a new style…
-5. Call it "last.fm" (Enter URL…)
+5. (Enter URL…) Call it ```last.fm```
 6. Copy
 ```@import url("https://raw.githubusercontent.com/willrobin/lastfm-darkmode/main/style.css");```
 7. Paste everything
