@@ -1,6 +1,4 @@
-# lastfm-stylebot-darkmode
-
-A custom stylesheet for last.fm for Stylebot.
+A custom stylesheet for last.fm.
 
 1. Install [Stylebot](https://stylebot.dev/)
 2. Open Stylebot Options
